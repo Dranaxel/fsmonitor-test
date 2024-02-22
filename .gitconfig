@@ -3,3 +3,5 @@
   filemode = true
   bare = false
   fsmonitor = "bash -c 'echo ALERT'"
+  allowRemote = true
+  socketDir="/tmp"
